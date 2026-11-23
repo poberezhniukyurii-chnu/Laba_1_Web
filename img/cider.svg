@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" width="200" height="140">
+  <rect width="200" height="140" fill="#eef8ec"/>
+  <circle cx="60" cy="78" r="38" fill="#c0392b"/>
+  <path d="M60 40 C 62 30, 70 24, 78 22" stroke="#5b3a12" stroke-width="4" fill="none"/>
+  <ellipse cx="80" cy="30" rx="12" ry="6" fill="#27ae60"/>
+  <path d="M120 30 H150 V50 C 160 56, 162 64, 162 74 V128 H108 V74 C 108 64, 110 56, 120 50 Z" fill="#e1b12c" opacity="0.9"/>
+  <text x="135" y="100" font-family="Arial" font-size="11" text-anchor="middle" fill="#5b3a12">Сидр</text>
+</svg>
